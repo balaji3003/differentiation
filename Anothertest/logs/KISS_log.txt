@@ -1,0 +1,28 @@
+
+🌐 Cloning or updating KISS...
+📁 Copying .py scripts into KISS...
+🚀 Running detect_test_adoption.py...
+📦 Analyzing Repository: KISS
+
+🔍 Searching for CI configuration introduction...
+✅ CI config added: .github/workflows/ci.yml
+
+🔍 Searching for test directory introduction...
+✅ Test directory/file added: app/src/test/java/fr/neamar/kiss/utils/FuzzyScoreTest.java
+
+📈 Detecting spike in test-related commits...
+📅 2021-02: 3 test-related commits
+📅 2024-01: 1 test-related commits
+📅 2020-10: 1 test-related commits
+📅 2020-09: 1 test-related commits
+
+🛡️ Checking README for coverage badge...
+❌ No coverage badge or reference found in README.
+
+📌 Summary of Commit Hashes:
+   - CI Config Added: .github/workflows/ci.yml
+   - Test Dir Created: app/src/test/java/fr/neamar/kiss/utils/FuzzyScoreTest.java
+   - Coverage Badge Added: ❌ Not found
+
+📁 Results saved to: output_test_adoption_2025-05-15_18-41.txt
+🚀 Running analyse_cyclomatic_complexity_over_time.py...
